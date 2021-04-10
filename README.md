@@ -6,7 +6,7 @@
 [![邮箱](https://img.shields.io/static/v1?label=邮箱&message=%20&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:991658923@qq.com)
 
 
-😄 Nice To meet you ~ 
-🏝️ I’m currently striving for a better life in Suzhou. 
-🎓 I’m currently studying at Suzhou University of Science and Technology. 
-💻 I’m a Java developer.
+😄 Nice To meet you ~  
+💻 I’m a Java developer.  
+🏝️ I’m currently striving for a better life in Suzhou.  
+🎓 I’m currently studying at Suzhou University of Science and Technology.  
